@@ -1,6 +1,6 @@
 export const standardTheme = {
   darkGreen: "#001712",
-  intenseGreen: "#00201A",
+  intenseGreen: "#00201a",
   undergroundIntenseGreen: "#00251E",
   cardGreen: "#042D25",
   goldText: "#E9C176",
