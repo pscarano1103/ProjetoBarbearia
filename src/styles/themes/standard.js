@@ -1,0 +1,15 @@
+export const standardTheme = {
+  darkGreen: "#001712",
+  intenseGreen: "#00201a",
+  undergroundIntenseGreen: "#00251E",
+  cardGreen: "#042D25",
+  goldText: "#E9C176",
+  lightGreenTitle: "#C2EBDF",
+  lightGreenText: "#C1C8C4",
+  lightGreenStroke: "#E9EEED",
+  whiteDefault: "#FFFFFF",
+  greenFormBackground: "#133B33",
+  formFieldStroke: "#414846",
+  strongTextFont: '"Hanken Grotesk", sans-serif',
+  defaultFont: '"Inter", sans-serif',
+};
