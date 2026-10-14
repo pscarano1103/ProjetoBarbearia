@@ -3,7 +3,7 @@ import { Container, HeroBanner, TitleHero } from "./styles.js";
 
 export function Hero() {
   return (
-    <HeroBanner>
+    <HeroBanner className="container">
       <Container>
         <TitleHero>
           Sofisticação e <span>Requinte em Boituva</span>

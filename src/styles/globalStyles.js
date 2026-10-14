@@ -10,11 +10,18 @@ const globalStyles = createGlobalStyle`
         font-family: ${(props) => props.theme.defaultFont};
         font-weight: 400;
     }
-
+    html{
+        scroll-behavior: smooth;
+    }
     button, a{
         cursor: pointer;
         border: none;
         text-decoration:none;
+    }
+
+    .container{
+        display: flex;
+        width: 100%;
     }
 
 `;

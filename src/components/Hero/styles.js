@@ -10,16 +10,15 @@ export const Container = styled.div`
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
+  padding: 0 64px;
 `;
 
 export const HeroBanner = styled.div`
-  display: flex;
   flex-direction: column;
   height: 100vh;
-  width: 100%;
   position: relative;
   background:
-    linear-gradient(rgba(0, 32, 26, 0.2), rgba(0, 32, 26, 0.9)),
+    linear-gradient(rgba(0, 32, 26, 0), rgba(0, 32, 26, 1)),
     url("${Background}") no-repeat;
   background-color: ${(props) => props.theme.intenseGreen};
   background-size: cover;
