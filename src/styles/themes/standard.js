@@ -2,6 +2,7 @@ export const standardTheme = {
   darkGreen: "#001712",
   intenseGreen: "#00201a",
   undergroundIntenseGreen: "#00251E",
+  greenFooter: "#00110D",
   cardGreen: "#042D25",
   goldText: "#E9C176",
   lightGreenTitle: "#C2EBDF",
